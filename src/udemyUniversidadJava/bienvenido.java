@@ -3,10 +3,7 @@
  */
 package udemyUniversidadJava;
 
-/**
- * @author jonatan
- *
- */
+
 public class bienvenido {
 
 	/**
@@ -15,6 +12,7 @@ public class bienvenido {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		System.out.println("Bienvenidos a Federico Vazquez");
 	}
 
 }
